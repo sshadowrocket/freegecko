@@ -12,4 +12,4 @@ The official website of FreeGecko is [https://www.freegecko.org](https://www.fre
 
 ## freegecko 自由壁虎套餐价格
 
-![image](https://github.com/sshadowrocket/freegecko/assets/3085274/6b012978-f0be-49e5-a90b-92010eda9a9f)
+[![image](https://github.com/sshadowrocket/freegecko/assets/3085274/6b012978-f0be-49e5-a90b-92010eda9a9f)](https://www.freegecko.org/index.php#/register?code=MdguKReJ)
